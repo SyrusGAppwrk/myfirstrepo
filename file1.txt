@@ -1,4 +1,2 @@
 helo file1
 change 1 to file 1
-change 2 to file1
-changed 
